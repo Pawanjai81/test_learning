@@ -26,8 +26,8 @@ npm run [test](https://docs.npmjs.com/cli/v8/commands/npm-test)
 
 ## Author
 👤 __Frank Abgrall__
-* Twitter: [@avinash](https://twitter.com/Avinash5785)
-* Github: [avinashsingh9140](https://github.com/avinashsingh9140/Readme-example)
+* Twitter: [@pawanjai81](https://twitter.com/PawanJai81)
+* Github: [pawanjai81](https://github.com/Pawanjai81/Pawanjai81)
 
 ## 🤝 Contributing
 Contributions,issues and features requests are welcome!
@@ -42,4 +42,4 @@ This project is [MIT](https://opensource.org/license/mit/) Licensed.this
 
 ##
 
-This README was generated with ❤️ by ##night->coder##
+This README was generated with ❤️ by pawan jaiswal
